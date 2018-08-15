@@ -5,7 +5,7 @@ object pepita  {
 
   method comer(gramos) {
     _energia += 4
-  }
+  
 
   method volar(km) {
     _energia -= (10 + km)
