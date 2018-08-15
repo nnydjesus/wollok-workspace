@@ -1,6 +1,6 @@
 
 object pepita  {
-  var _energia = 100 
+  var _energiaa = 100 
   var nombre = "Pepa"
 
   method comer(gramos) {
