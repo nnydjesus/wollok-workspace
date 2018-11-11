@@ -14,6 +14,6 @@ object accumulator {
   }
   
   method evenCount() { 
-    return evens 
+    return evens  
   }
 }
