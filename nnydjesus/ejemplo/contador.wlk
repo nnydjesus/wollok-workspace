@@ -8,9 +8,9 @@ object accumulator {
   
   method add(amount) {
     total += amount
-    if ((amount) == 0) { 
+    
       evens += 1 
-    } 
+  
   }
   
   method evenCount() { 
