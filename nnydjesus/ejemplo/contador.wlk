@@ -10,7 +10,7 @@ object accumulator {
     total += amount
     if (amount % 2 == 0) { 
       evens += 1 
-    }
+    } 
   }
   
   method evenCount() { 
