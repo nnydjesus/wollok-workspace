@@ -8,7 +8,7 @@ object accumulator {
   
   method add(amount) {
     total += amount
-    if ((amount % 2) == 0) { 
+    if ((amount) == 0) { 
       evens += 1 
     } 
   }
