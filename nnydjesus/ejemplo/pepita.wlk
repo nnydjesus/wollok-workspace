@@ -4,7 +4,7 @@ object pepita  {
   var nombre = "Pepa"
 
   method comer(gramos) {
-    _energia += 4
+    _energia += gramos
   }
 
   method volar(km) {
