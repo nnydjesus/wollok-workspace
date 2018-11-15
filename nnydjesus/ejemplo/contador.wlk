@@ -2,16 +2,13 @@ object accumulator {
   var total = 0
   var evens = 0
   
-  /* 
+  /*
  comentario
  de muchas
  líneas
  */
   method getCurrentTotal() { 
     //comentario
-    /**
-    asdfs
-     */
     return total 
   } 
   
