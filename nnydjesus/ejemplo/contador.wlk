@@ -1,5 +1,5 @@
 object accumulator { 
-  const total = 0
+  var total = 0
   var evens = 0
   
   /*
