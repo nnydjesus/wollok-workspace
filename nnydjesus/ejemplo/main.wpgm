@@ -1,7 +1,5 @@
 
 
-program Ejemplo {
-  var variable = 'Hello Wollok'
- 	 console.println(variable) 
+program helloWorld {
+   console.println("Hola mundo")
 }
-
